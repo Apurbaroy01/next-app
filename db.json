@@ -1,0 +1,54 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Ahsan Rahman",
+      "specialty": "Cardiology",
+      "experience": 12,
+      "hospital": "Dhaka Medical College",
+      "location": "Dhaka",
+      "fee": 800,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Dr. Nusrat Jahan",
+      "specialty": "Dermatology",
+      "experience": 8,
+      "hospital": "Square Hospital",
+      "location": "Dhaka",
+      "fee": 600,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Dr. Tanvir Hasan",
+      "specialty": "Neurology",
+      "experience": 15,
+      "hospital": "Apollo Hospital",
+      "location": "Dhaka",
+      "fee": 1000,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Dr. Farzana Islam",
+      "specialty": "Pediatrics",
+      "experience": 10,
+      "hospital": "United Hospital",
+      "location": "Dhaka",
+      "fee": 700,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Dr. Mahmudul Karim",
+      "specialty": "Orthopedics",
+      "experience": 18,
+      "hospital": "Popular Diagnostic Center",
+      "location": "Dhaka",
+      "fee": 900,
+      "available": false
+    }
+  ]
+}
