@@ -1,54 +1,59 @@
 {
-  "doctors": [
+  "products": [
     {
       "id": 1,
-      "name": "Dr. Ahsan Rahman",
-      "specialty": "Cardiology",
-      "experience": 12,
-      "hospital": "Dhaka Medical College",
-      "location": "Dhaka",
-      "fee": 800,
-      "available": true
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 2499,
+      "stock": 35,
+      "brand": "SoundMax",
+      "rating": 4.5,
+      "description": "Noise-cancelling over-ear headphones with long battery life.",
+      "image": "https://example.com/images/headphones.jpg"
     },
     {
       "id": 2,
-      "name": "Dr. Nusrat Jahan",
-      "specialty": "Dermatology",
-      "experience": 8,
-      "hospital": "Square Hospital",
-      "location": "Dhaka",
-      "fee": 600,
-      "available": false
+      "name": "Smartphone 6.5\" Display",
+      "category": "Electronics",
+      "price": 18999,
+      "stock": 20,
+      "brand": "TechPro",
+      "rating": 4.3,
+      "description": "High-performance smartphone with 128GB storage and 6GB RAM.",
+      "image": "https://example.com/images/smartphone.jpg"
     },
     {
       "id": 3,
-      "name": "Dr. Tanvir Hasan",
-      "specialty": "Neurology",
-      "experience": 15,
-      "hospital": "Apollo Hospital",
-      "location": "Dhaka",
-      "fee": 1000,
-      "available": true
+      "name": "Men's Casual Sneakers",
+      "category": "Fashion",
+      "price": 2999,
+      "stock": 50,
+      "brand": "UrbanWalk",
+      "rating": 4.2,
+      "description": "Comfortable and stylish sneakers for everyday wear.",
+      "image": "https://example.com/images/sneakers.jpg"
     },
     {
       "id": 4,
-      "name": "Dr. Farzana Islam",
-      "specialty": "Pediatrics",
-      "experience": 10,
-      "hospital": "United Hospital",
-      "location": "Dhaka",
-      "fee": 700,
-      "available": true
+      "name": "Digital Wrist Watch",
+      "category": "Accessories",
+      "price": 1499,
+      "stock": 40,
+      "brand": "TimeX",
+      "rating": 4.0,
+      "description": "Water-resistant digital watch with LED display.",
+      "image": "https://example.com/images/watch.jpg"
     },
     {
       "id": 5,
-      "name": "Dr. Mahmudul Karim",
-      "specialty": "Orthopedics",
-      "experience": 18,
-      "hospital": "Popular Diagnostic Center",
-      "location": "Dhaka",
-      "fee": 900,
-      "available": false
+      "name": "Office Backpack",
+      "category": "Bags",
+      "price": 1999,
+      "stock": 25,
+      "brand": "CarryPro",
+      "rating": 4.6,
+      "description": "Durable backpack with multiple compartments for laptops and essentials.",
+      "image": "https://example.com/images/backpack.jpg"
     }
   ]
 }
