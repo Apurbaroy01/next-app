@@ -55,5 +55,62 @@
       "description": "Durable backpack with multiple compartments for laptops and essentials.",
       "image": "https://example.com/images/backpack.jpg"
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "price": 15.99,
+      "publishedYear": 2018,
+      "rating": 4.8,
+      "inStock": true,
+      "image": "https://example.com/images/atomic-habits.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": 12.50,
+      "publishedYear": 1988,
+      "rating": 4.7,
+      "inStock": true,
+      "image": "https://example.com/images/alchemist.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "price": 32.00,
+      "publishedYear": 2008,
+      "rating": 4.9,
+      "inStock": false,
+      "image": "https://example.com/images/clean-code.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "genre": "Finance",
+      "price": 14.20,
+      "publishedYear": 1997,
+      "rating": 4.6,
+      "inStock": true,
+      "image": "https://example.com/images/rich-dad-poor-dad.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "price": 18.75,
+      "publishedYear": 1997,
+      "rating": 4.9,
+      "inStock": true,
+      "image": "https://example.com/images/harry-potter-1.jpg"
+    }
   ]
 }
