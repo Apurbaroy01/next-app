@@ -3,15 +3,17 @@ import Image from "next/image";
 const ProductCard = ({ product }) => {
   return (
     <div className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition duration-300">
-      
+
       {/* Image */}
-      <Image
-        src={"/window.svg"}
-        alt={product.name}
-        width={100}
-        height={100}
-        className="w-full h-48 object-cover"
-      />
+      <div className="h-20 w-20 flex items-center justify-center overflow-hidden border-2">
+        <Image
+          src={product.image}
+          alt={product.name}
+          width={100}
+          height={100}
+          className="w-full h-full object-cover"
+        />
+      </div>
 
       {/* Content */}
       <div className="p-4 space-y-2">
